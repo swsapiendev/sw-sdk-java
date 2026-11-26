@@ -35,7 +35,7 @@ Descargas el modulo mediante Maven:
 ## Instalación manual (sin Maven) ##
 Descargar el modulo directamente de los siguientes links:
 
-* [Relase Github](https://github.com/lunasoft/sw-sdk-java/releases)
+* [Relase Github](https://github.com/swsapiendev/sw-sdk-java/releases)
 * [Maven](https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=mx.com.sw.services&a=SW-JAVA&v=1.1.0.1&e=jar)
 
 Así como instalar manualmente cada una de las dependencias:
@@ -44,7 +44,7 @@ Así como instalar manualmente cada una de las dependencias:
 * [httpmime 4.5.14](http://hc.apache.org/downloads.cgi)
 * [httpasyncclient 4.1.5](http://hc.apache.org/downloads.cgi)
 
-Alternativamente, tambien se cuenta con un archivo JAR en el que se incluyen todas las dependencias, este se encuentra en la carpeta [Relase Github](https://github.com/lunasoft/sw-sdk-java/releases),  con el sufijo _"jar-with-dependencies.jar"_
+Alternativamente, tambien se cuenta con un archivo JAR en el que se incluyen todas las dependencias, este se encuentra en la carpeta [Relase Github](https://github.com/swsapiendev/sw-sdk-java/releases),  con el sufijo _"jar-with-dependencies.jar"_
 
 # Autenticación #
 El servicio de Autenticación es utilizado principalmente para obtener el token el cual será utilizado para poder usar nuestros servicios SW, es necesario que cuente con un usuario y contraseña para posteriormente obtenga el token.
